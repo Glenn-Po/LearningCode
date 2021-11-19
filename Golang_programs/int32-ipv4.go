@@ -91,8 +91,5 @@ func ipV4ToInt32(ipv4Adrr string) (intIp uint32) {
 
 	intIp = binToDec(bitString)
 
-	//and I am done
-
-	//for now,
 	return
 }
